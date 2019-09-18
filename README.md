@@ -36,3 +36,5 @@ Once you're done with your HTML, you create a *style.css* sheet to change:
 - location of image
 - image size 
 - change the font
+
+[Link to HTML page](http://127.0.0.1:5500/html-css-js/index.html)
