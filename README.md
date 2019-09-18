@@ -4,18 +4,18 @@ HTML development is for the content of your web page.  CSS give the page it's st
 
 An **important** thing to know about HTML is that every opening tag, needs to have a closing tag.  The structure of a basic HTML page would looke similar to this:
 
-
-&lt!DOCTYPE html&gt
+<pre>
+&lt;DOCTYPE html&gt;
 <html >
     <head >
         <title >
         This is what goes on the tab in your bowser
         </title >
-    </head
+    </head>
     <body>
     The content of your website goes here this may include
        <header>
-            <h2> Main Heading </h2>
+            <h2>Main Heading </h2>
             <nav> 
                 <ul>
                     <li> add a few naivgation links </li>
@@ -27,7 +27,8 @@ An **important** thing to know about HTML is that every opening tag, needs to ha
         </section>
     <footer> put some info for the footer </footer>
     </body>
-<html> 
+<html>
+</pre>
 
 
 You can add many different sections, or articles within the section.  You can add a 'aside' to make some content seperated.
