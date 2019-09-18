@@ -6,28 +6,28 @@ An **important** thing to know about HTML is that every opening tag, needs to ha
 
 <pre>
 &lt;DOCTYPE html&gt;
-<html >
-    <head >
-        <title >
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;
         This is what goes on the tab in your bowser
-        </title >
-    </head>
-    <body>
+        &lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
     The content of your website goes here this may include
-       <header>
-            <h2>Main Heading </h2>
-            <nav> 
-                <ul>
-                    <li> add a few naivgation links </li>
-                </ul>
-            </nav>
-        </header>
-        <section>
-            <p> put in some wording </p>
-        </section>
-    <footer> put some info for the footer </footer>
-    </body>
-<html>
+       &lt;header&gt;
+            &lt;h2>Main Heading &lt;/h2&gt;
+            &lt;nav&gt;
+                &lt;ul&gt;
+                    &lt;li&gt; add a few naivgation links &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/nav&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;p&gt; put in some wording &lt;/p&gt;
+        &lt;/section&gt;
+        &lt;footer&gt; put some info for the footer &lt;/footer&gt;
+    &lt;/body&gt;
+&lt;html&gt;
 </pre>
 
 
