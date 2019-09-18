@@ -10,8 +10,8 @@ An **important** thing to know about HTML is that every opening tag, needs to ha
         '<title>'
         This is what goes on the tab in your bowser
         '</title>'
-    </head>
-    <body> 
+    '</head>'
+    '<body>' 
     The content of your website goes here this may include
        <header>
             <h2> Main Heading </h2>
@@ -25,8 +25,8 @@ An **important** thing to know about HTML is that every opening tag, needs to ha
             <p> put is some wording </p>
         </section>
     <footer> put some info for the footer </footer>
-    </body>
-</html>'
+    '</body>'
+'</html>'
 
 You can add many different sections, or articles within the section.  You can add a 'aside' to make some content seperated.
 
