@@ -14,7 +14,7 @@ An **important** thing to know about HTML is that every opening tag, needs to ha
     <body> 
     The content of your website goes here this may include
        <header>
-            <h1> Main Heading </h1>
+            <h2> Main Heading </h2>
             <nav> 
                 <ul>
                     <li> add a few naivgation links </li>
