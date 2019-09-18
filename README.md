@@ -6,8 +6,8 @@ An **important** thing to know about HTML is that every opening tag, needs to ha
 
 
 <!DOCTYPE html>
-<html>
-    <head>
+<html><br/>
+    <head><br/>
         <title>
         This is what goes on the tab in your bowser
         </title>
