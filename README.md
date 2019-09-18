@@ -7,6 +7,8 @@ An **important** thing to know about HTML is that every opening tag, needs to ha
 <pre>
 <code>
 <!DOCTYPE html>
+</code>
+</pre>
 <html>
     <head>
         <title>
@@ -30,7 +32,6 @@ An **important** thing to know about HTML is that every opening tag, needs to ha
     </body>
 </html>
 </code>
-</pre>
 
 You can add many different sections, or articles within the section.  You can add a 'aside' to make some content seperated.
 
