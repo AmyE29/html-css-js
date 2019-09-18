@@ -5,23 +5,31 @@
 body {
     width: 960px;
     margin: 0 auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 /* the area below styles the header */
 
 header {
-        height: 100px;
+        height: 150px;
         margin: 0 auto;
+        background-color: #CEE0FE;
+        font-size: 20pt;
      }
 
-#main-header {
-text-align: center;
-}     
+
 
 .menu {
-    color: darkred;
+    color: rgb(105, 125, 235);
     list-style: none;
-    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: right;
+    display: inline;
 }
+
+#main-header {
+    text-align: center;
+    }     
 
 /* header nav {
         float: right;
@@ -31,6 +39,8 @@ text-align: center;
 
 img {
     height: 300px;
-    border: 5px dashed red;
-    border-radius: 50px;
+    width: 300px;
+    border: 2px dashed rgb(105, 125, 235);
+    border-radius: 30px;
+    margin: 5px;
 }
