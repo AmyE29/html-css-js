@@ -10,3 +10,5 @@ if (answer === 'yes') {
 }
 
 document.write('<h5>'+ message + '</h5>');
+
+var color = 'blue'

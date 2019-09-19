@@ -10,7 +10,7 @@ body {
 /* the area below styles the header */
 
 header {
-        height: 210px;
+        height: 300px;
         margin: 0 auto;
         background-color: #CEE0FE;
         font-size: 20pt;
@@ -25,6 +25,7 @@ header {
     margin-left: 50px;
     text-align: right;
     display: inline;
+    
 }
 
 #main-header {
