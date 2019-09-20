@@ -10,7 +10,7 @@ body {
 /* the area below styles the header */
 
 header {
-        height: 300px;
+        height: 400px;
         margin: 0 auto;
         background-color: #CEE0FE;
         font-size: 20pt;
@@ -32,9 +32,9 @@ header {
     text-align: center;
     }     
 
-/* header nav {
+header nav {
         float: right;
-} */
+}
 
 /* the area below styles the body>main */
 
@@ -44,4 +44,13 @@ img {
     border: 2px dashed rgb(105, 125, 235);
     border-radius: 30px;
     margin: 5px;
+}
+.info {
+    color: rgb(105, 125, 235);
+    list-style: none;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: right;
+    display: inline;
+
 }
