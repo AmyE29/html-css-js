@@ -1,0 +1,47 @@
+/* * {
+    border: 1px solid black;
+} */
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* the area below styles the header */
+
+header {
+        height: 300px;
+        margin: 0 auto;
+        background-color: #CEE0FE;
+        font-size: 20pt;
+     }
+
+
+
+.menu {
+    color: rgb(105, 125, 235);
+    list-style: none;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: right;
+    display: inline;
+    
+}
+
+#main-header {
+    text-align: center;
+    }     
+
+/* header nav {
+        float: right;
+} */
+
+/* the area below styles the body>main */
+
+img {
+    height: 300px;
+    width: 300px;
+    border: 2px dashed rgb(105, 125, 235);
+    border-radius: 30px;
+    margin: 5px;
+}
