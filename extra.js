@@ -1,11 +1,12 @@
-var need_water = confirm('Do you have a water bottle?');
+var need_water = prompt ('Do you have a water bottle?');
 var intro;
 
-if (need_water === true) {
-    intro = "You need a better one!"
+if (need_water === 'yes') {
+    intro = 'You need a better one!';
 }
 else {
-   intro = "You've come to the right place!"
+   intro = 'Youve come to the right place!';
 }
 
-document.write(intro)
+document.write('<h5>' + intro + '</h5>');
+

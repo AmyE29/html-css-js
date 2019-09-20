@@ -1,6 +1,6 @@
 var answer = prompt ('Do you drink water?');
-
 var message;
+
 if (answer === 'yes') {
     message = 'You need a water bottle!';
 } else if (answer === 'no'){ 
@@ -9,6 +9,4 @@ if (answer === 'yes') {
     message = 'Drink more water!';
 }
 
-document.write('<h5>'+ message + '</h5>');
-
-var color = 'blue'
+document.write('<h5>' + message + '</h5>');
